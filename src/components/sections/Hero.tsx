@@ -20,7 +20,7 @@ export function Hero() {
           fill
           priority
           sizes="100vw"
-          className="object-cover object-[50%_7%]"
+          className="object-cover object-[22%_7%] sm:object-[50%_7%]"
         />
         {/* overall darkening to unify the frame and seat the type */}
         <div className="bg-noir/40 absolute inset-0" />

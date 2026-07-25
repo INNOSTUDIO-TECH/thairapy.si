@@ -18,7 +18,7 @@ export const siteConfig = {
     displayIntl: "+386 70 645 602",
   },
   // TODO: confirm real inbox with the owner.
-  email: "info@thairapy.si",
+  email: "massagethairapy@gmail.com",
 
   address: {
     street: "Partizanska cesta 44",
@@ -34,7 +34,7 @@ export const siteConfig = {
     instagram: "https://instagram.com/thai_rapy",
     instagramHandle: "@thai_rapy",
     // TODO: replace with the real Facebook page URL.
-    facebook: "https://www.facebook.com/profile.php?id=thairapy.massage",
+    facebook: "https://www.facebook.com/profile.php?id=61588645051635#",
   },
 
   rating: { value: 5.0, count: 4 },
