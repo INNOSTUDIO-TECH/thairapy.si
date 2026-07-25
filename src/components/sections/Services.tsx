@@ -44,11 +44,11 @@ export function Services() {
                       delay={i * 70}
                       className="border-ink/10 border-b py-7"
                     >
-                      <div className="flex items-baseline gap-4">
+                      <div className="flex flex-col gap-3 sm:flex-row sm:items-baseline sm:gap-4">
                         <h3 className="font-display text-ink text-2xl leading-none sm:text-[1.7rem]">
                           {t(`items.${service.id}.name`)}
                         </h3>
-                        <span className="leader text-ink/25" />
+                        <span className="leader text-ink/25 hidden sm:block" />
                         <div className="flex shrink-0 items-baseline gap-6">
                           {service.variants.map((v) => (
                             <span

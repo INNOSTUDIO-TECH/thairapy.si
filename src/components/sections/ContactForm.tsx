@@ -47,7 +47,7 @@ export function ContactForm() {
 
   if (status === "success") {
     return (
-      <div className="border-ink/12 bg-canvas flex min-h-[20rem] flex-col items-center justify-center gap-4 rounded-3xl border p-10 text-center">
+      <div className="border-ink/12 bg-canvas -mx-6 flex min-h-[20rem] flex-col items-center justify-center gap-4 rounded-none border-y p-10 text-center sm:mx-0 sm:rounded-3xl sm:border">
         <CheckCircle2 className="text-brass h-12 w-12" aria-hidden />
         <p className="font-display text-ink text-xl">{t("success")}</p>
       </div>
@@ -61,7 +61,7 @@ export function ContactForm() {
     <form
       onSubmit={handleSubmit(onSubmit)}
       noValidate
-      className="border-ink/12 bg-canvas rounded-3xl border p-7 sm:p-9"
+      className="border-ink/12 bg-canvas -mx-6 rounded-none border-y p-7 sm:mx-0 sm:rounded-3xl sm:border sm:p-9"
     >
       <h3 className="font-display text-ink text-2xl">{t("title")}</h3>
 

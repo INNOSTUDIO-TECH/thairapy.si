@@ -109,7 +109,7 @@ export default async function LocaleLayout({
       lang={locale}
       className={`${cormorant.variable} ${hanken.variable} h-full`}
     >
-      <body className="flex min-h-full flex-col">
+      <body className="flex min-h-full flex-col overflow-x-clip">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
