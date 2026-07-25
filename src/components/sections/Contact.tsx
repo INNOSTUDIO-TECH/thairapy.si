@@ -87,7 +87,7 @@ export function Contact() {
         </div>
 
         {/* Location map — full-width banner across both columns */}
-        <div className="border-ink/12 -mx-6 mt-12 overflow-hidden rounded-none border-y sm:mx-0 sm:rounded-2xl sm:border">
+        <div className="border-ink/12 -mx-6 -mb-24 overflow-hidden rounded-none border-y sm:mx-0 sm:mt-12 sm:mb-0 sm:rounded-2xl sm:border">
           <iframe
             title={t("mapTitle")}
             src={mapEmbed}

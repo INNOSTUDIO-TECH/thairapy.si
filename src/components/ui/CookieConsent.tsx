@@ -90,12 +90,17 @@ export function CookieConsent() {
           <div className="mt-5 flex flex-wrap items-center gap-3">
             {!showSettings ? (
               <>
-                <Button size="md" onClick={() => decide(true, true)}>
+                <Button
+                  size="md"
+                  className="flex-1 sm:flex-none"
+                  onClick={() => decide(true, true)}
+                >
                   {t("accept")}
                 </Button>
                 <Button
                   size="md"
                   variant="outline"
+                  className="flex-1 sm:flex-none"
                   onClick={() => decide(false, false)}
                 >
                   {t("reject")}
@@ -112,12 +117,17 @@ export function CookieConsent() {
               </>
             ) : (
               <>
-                <Button size="md" onClick={() => decide(analytics, marketing)}>
+                <Button
+                  size="md"
+                  className="flex-1 sm:flex-none"
+                  onClick={() => decide(analytics, marketing)}
+                >
                   {t("save")}
                 </Button>
                 <Button
                   size="md"
                   variant="outline"
+                  className="flex-1 sm:flex-none"
                   onClick={() => decide(true, true)}
                 >
                   {t("accept")}
