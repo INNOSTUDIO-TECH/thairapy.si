@@ -1,0 +1,174 @@
+@import "tailwindcss";
+
+@theme {
+  /* Editorial luxury-spa palette */
+  --color-canvas: #f7f3eb; /* warm porcelain */
+  --color-stone: #efe9dc; /* alt surface */
+  --color-stone-deep: #e6dfce;
+  --color-noir: #15180f; /* near-black forest, dark sections */
+  --color-noir-2: #1e2416;
+  --color-ink: #232a1d; /* primary text on light */
+  --color-ink-2: #3c4a33; /* forest mid */
+  --color-muted: #74705f; /* secondary text */
+  --color-ivory: #f4efe3; /* text on dark */
+  --color-ivory-dim: #cdc7b6;
+  --color-brass: #a9853f; /* refined gold accent */
+  --color-brass-soft: #c8ac73;
+
+  /* Typography */
+  --font-sans:
+    var(--font-hanken), ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-display:
+    var(--font-cormorant), ui-serif, Georgia, "Times New Roman", serif;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
+  -webkit-text-size-adjust: 100%;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  background-color: var(--color-canvas);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-feature-settings: "ss01";
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  line-height: 1.65;
+}
+
+::selection {
+  background-color: var(--color-ink);
+  color: var(--color-canvas);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  line-height: 1.06;
+  letter-spacing: -0.005em;
+  text-wrap: balance;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-brass);
+  outline-offset: 3px;
+  border-radius: 1px;
+}
+
+/* --- Editorial utilities --- */
+
+/* Wide-tracked small-caps label */
+.eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+}
+
+/* Hairline rule that fades */
+.rule {
+  height: 1px;
+  background: currentColor;
+  opacity: 0.18;
+}
+
+/* Animated brass underline link */
+.link-line {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding-bottom: 2px;
+}
+.link-line::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 1px;
+  width: 100%;
+  background: var(--color-brass);
+  transform: scaleX(1);
+  transform-origin: right;
+  transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.link-line:hover::after {
+  transform: scaleX(0);
+  transform-origin: left;
+}
+.link-line--quiet::after {
+  background: currentColor;
+  opacity: 0.4;
+}
+
+/* Dotted leader between a menu item and its price */
+.leader {
+  flex: 1 1 auto;
+  align-self: end;
+  margin-bottom: 0.32em;
+  border-bottom: 1px dotted color-mix(in srgb, currentColor 38%, transparent);
+}
+
+/* Fine film grain — lifts flat fills toward a photographic surface.
+   Layer with low opacity + mix-blend-overlay over dark imagery. */
+.noise {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* --- Motion --- */
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(22px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .rise {
+    opacity: 0;
+    animation: rise 1s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  }
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition:
+      opacity 0.85s cubic-bezier(0.22, 1, 0.36, 1),
+      transform 0.85s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rise,
+  .reveal {
+    opacity: 1;
+    transform: none;
+  }
+}

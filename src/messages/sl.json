@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "title": "Thairapy Massage | Tajske in sprostitvene masaže v Gornji Radgoni",
+    "titleTemplate": "%s | Thairapy Massage",
+    "description": "Thairapy Massage v Gornji Radgoni ponuja pristne tajske masaže, aroma in vroče oljne masaže, masažo z aloe vero ter tretmaje telesa. Sprostite se, napolnite z energijo in pomladite. Rezervirajte termin po telefonu ali e-pošti.",
+    "ogAlt": "Thairapy Massage – masažni salon v Gornji Radgoni"
+  },
+  "nav": {
+    "about": "O nas",
+    "services": "Masaže",
+    "hours": "Urnik",
+    "gallery": "Galerija",
+    "reviews": "Mnenja",
+    "contact": "Kontakt",
+    "book": "Rezerviraj",
+    "menu": "Meni",
+    "openMenu": "Odpri meni",
+    "closeMenu": "Zapri meni",
+    "backToTop": "Nazaj na vrh"
+  },
+  "hero": {
+    "eyebrow": "Masaža za vaše dobro počutje",
+    "title": "Thairapy Massage",
+    "tagline": "Sprostitev · Energija · Pomladitev",
+    "headlineLead": "Pristna tajska",
+    "headlineAccent": "masaža",
+    "subtitle": "Pristne tajske in sprostitvene masaže v Gornji Radgoni. Predahnite od vsakdana in privoščite telesu zasluženo nego.",
+    "ctaPrimary": "Rezervirajte termin",
+    "ctaSecondary": "Oglejte si masaže",
+    "ratingLabel": "ocena strank"
+  },
+  "about": {
+    "eyebrow": "Dobrodošli",
+    "title": "Vaš trenutek miru v Gornji Radgoni",
+    "lead": "Thairapy Massage združuje tradicionalne tajske tehnike s sodobnimi sprostitvenimi masažami.",
+    "p1": "Vsaka masaža je prilagojena vašim potrebam – od globinske tajske masaže, ki sprosti napete mišice, do nežnih oljnih masaž, ki pomirijo telo in duha. Uporabljamo kakovostna olja in negovalne pripravke za popolno izkušnjo.",
+    "p2": "V prijetnem in umirjenem okolju poskrbimo, da iz salona odidete spočiti, razbremenjeni in polni nove energije.",
+    "featuresEyebrow": "Zakaj Thairapy?",
+    "features": {
+      "authentic": {
+        "title": "Pristne tehnike",
+        "text": "Tradicionalne tajske metode in izurjene roke."
+      },
+      "personal": {
+        "title": "Osebni pristop",
+        "text": "Masaža, prilagojena vašemu telesu in počutju."
+      },
+      "calm": {
+        "title": "Umirjeno okolje",
+        "text": "Miren prostor, ustvarjen za popolno sprostitev."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Cenik",
+    "title": "Meni masaž",
+    "subtitle": "Vsaka masaža je izvedena s skrbnostjo in pozornostjo do podrobnosti.",
+    "durationLabel": "Trajanje",
+    "from": "od",
+    "min": "min",
+    "categories": {
+      "signature": "Značilne masaže",
+      "rituals": "Negovalni rituali",
+      "express": "Krajše in ciljane"
+    },
+    "items": {
+      "thai": {
+        "name": "Tajska masaža",
+        "description": "Tradicionalna tajska masaža z raztezanjem in pritiski za sprostitev napetih mišic in pretok energije."
+      },
+      "aromaOil": {
+        "name": "Aroma oljna masaža",
+        "description": "Nežna masaža z dišečimi eteričnimi olji, ki pomirja telo in čute."
+      },
+      "combination": {
+        "name": "Kombinirana masaža",
+        "description": "Spoj tajskih tehnik in oljne masaže za celostno sprostitev."
+      },
+      "hotOil": {
+        "name": "Masaža z vročim oljem",
+        "description": "Toplo olje globoko sprosti mišice in pospeši krvni obtok."
+      },
+      "aloeVera": {
+        "name": "Masaža z aloe vero",
+        "description": "Vlažilna in pomirjujoča masaža z aloe vero, idealna za nego kože."
+      },
+      "bodyTreatment": {
+        "name": "Tretma telesa",
+        "description": "Razvajajoča nega celega telesa za gladko, spočito kožo."
+      },
+      "headBackShoulders": {
+        "name": "Glava, hrbet in ramena",
+        "description": "Ciljana masaža za sprostitev napetosti v vratu, ramenih in hrbtu."
+      },
+      "foot": {
+        "name": "Masaža stopal",
+        "description": "Osvežujoča masaža stopal, ki sprosti celotno telo."
+      }
+    },
+    "note": "Cene so v evrih (€). Za termin nas pokličite ali nam pišite.",
+    "taxNote": "Cene so končne. DDV ni obračunan na podlagi 1. odstavka 94. člena ZDDV-1 (nismo zavezanci za DDV)."
+  },
+  "hours": {
+    "eyebrow": "Urnik",
+    "title": "Odpiralni čas",
+    "subtitle": "Veselimo se vašega obiska. Za termin nas pokličite ali pišite.",
+    "openNow": "Trenutno odprto",
+    "closedNow": "Trenutno zaprto",
+    "closedLabel": "Zaprto",
+    "byAppointment": "oz. po dogovoru",
+    "cta": "Rezervirajte termin",
+    "days": {
+      "monday": "Ponedeljek",
+      "tuesday": "Torek",
+      "wednesday": "Sreda",
+      "thursday": "Četrtek",
+      "friday": "Petek",
+      "saturday": "Sobota",
+      "sunday": "Nedelja"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Vzdušje",
+    "title": "Pogled v naš salon",
+    "subtitle": "Prostor, ustvarjen za vašo sprostitev.",
+    "followCta": "Sledite nam na Instagramu",
+    "imageAlt": "Vzdušje v salonu Thairapy Massage"
+  },
+  "reviews": {
+    "eyebrow": "Mnenja strank",
+    "title": "Kaj pravijo naše stranke",
+    "subtitle": "Povprečna ocena {rating} od 5.",
+    "items": [
+      {
+        "name": "Maja K.",
+        "text": "Odlična tajska masaža in prijetno vzdušje. Po obisku sem se počutila popolnoma sproščeno. Toplo priporočam!"
+      },
+      {
+        "name": "Andreas M.",
+        "text": "Sehr professionelle Massage und herzlicher Empfang. Ich komme auf jeden Fall wieder!"
+      },
+      {
+        "name": "Petra V.",
+        "text": "Najboljša masaža v okolici. Prijazno osebje, čist prostor in res strokovna izvedba."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Rezervirajte svoj termin",
+    "subtitle": "Pokličite nas, nam pišite ali izpolnite obrazec – z veseljem vam pomagamo.",
+    "callLabel": "Pokličite",
+    "emailLabel": "E-pošta",
+    "addressLabel": "Naslov",
+    "hoursLabel": "Odpiralni čas",
+    "directions": "Pot do nas",
+    "mapTitle": "Lokacija salona Thairapy Massage na zemljevidu",
+    "form": {
+      "title": "Pošljite povpraševanje",
+      "name": "Ime in priimek",
+      "namePlaceholder": "Vaše ime",
+      "email": "E-pošta",
+      "emailPlaceholder": "vase@email.com",
+      "phone": "Telefon",
+      "phonePlaceholder": "Vaša telefonska številka",
+      "service": "Želena masaža",
+      "servicePlaceholder": "Izberite masažo (neobvezno)",
+      "message": "Sporočilo",
+      "messagePlaceholder": "Kdaj bi želeli priti? Imate kakšno željo?",
+      "submit": "Pošlji povpraševanje",
+      "submitting": "Pošiljanje …",
+      "success": "Hvala! Vaše povpraševanje smo prejeli in se vam kmalu oglasimo.",
+      "error": "Sporočila ni bilo mogoče poslati. Pokličite nas ali nam pišite.",
+      "required": "To polje je obvezno.",
+      "invalidEmail": "Vnesite veljaven e-poštni naslov.",
+      "consent": "S pošiljanjem se strinjate, da vas kontaktiramo glede vašega povpraševanja."
+    }
+  },
+  "footer": {
+    "tagline": "Masaža za vaše dobro počutje.",
+    "quickLinks": "Hitre povezave",
+    "contactTitle": "Kontakt",
+    "followTitle": "Sledite nam",
+    "legalTitle": "Pravno",
+    "privacy": "Zasebnost",
+    "cookies": "Piškotki",
+    "rights": "Vse pravice pridržane.",
+    "vat": "Davčna št.: SI{vat}"
+  },
+  "cookie": {
+    "title": "Spoštujemo vašo zasebnost",
+    "description": "Piškotke uporabljamo za delovanje spletne strani ter za analitiko in oglaševanje. Sami izberete, kaj dovolite.",
+    "accept": "Sprejmi vse",
+    "reject": "Samo nujni",
+    "settings": "Nastavitve",
+    "save": "Shrani izbiro",
+    "necessary": "Nujni",
+    "necessaryDesc": "Potrebni za osnovno delovanje strani. Vedno aktivni.",
+    "analytics": "Analitika",
+    "analyticsDesc": "Pomagajo nam razumeti uporabo strani (Google Analytics).",
+    "marketing": "Trženje",
+    "marketingDesc": "Omogočajo merjenje uspešnosti oglasov (Google Ads).",
+    "more": "Več v politiki piškotkov"
+  },
+  "language": {
+    "label": "Jezik",
+    "sl": "Slovenščina",
+    "de": "Deutsch"
+  },
+  "legal": {
+    "backHome": "Nazaj na domačo stran",
+    "lastUpdated": "Zadnja posodobitev",
+    "privacy": {
+      "title": "Politika zasebnosti",
+      "intro": "Ta politika pojasnjuje, kako {legalName} obravnava vaše osebne podatke ob uporabi te spletne strani.",
+      "sections": [
+        {
+          "heading": "Upravljavec podatkov",
+          "body": "Upravljavec osebnih podatkov je {legalName}, {address}. Za vprašanja nas kontaktirajte na {email}."
+        },
+        {
+          "heading": "Kateri podatki se zbirajo",
+          "body": "Ob oddaji kontaktnega obrazca zbiramo vaše ime, e-poštni naslov, telefonsko številko in vsebino sporočila, da se lahko odzovemo na vaše povpraševanje. Z vašo privolitvijo uporabljamo tudi analitične in oglaševalske piškotke."
+        },
+        {
+          "heading": "Namen in pravna podlaga",
+          "body": "Podatke iz obrazca obdelujemo na podlagi vaše privolitve in z namenom odgovora na povpraševanje. Analitiko in oglaševanje izvajamo le ob vaši privolitvi prek pasice o piškotkih."
+        },
+        {
+          "heading": "Hramba podatkov",
+          "body": "Podatke hranimo le toliko časa, kolikor je potrebno za obravnavo vašega povpraševanja oziroma skladno z zakonskimi obveznostmi."
+        },
+        {
+          "heading": "Vaše pravice",
+          "body": "Imate pravico do dostopa, popravka, izbrisa in omejitve obdelave vaših podatkov ter pravico do ugovora. Za uveljavljanje pravic nas kontaktirajte na {email}."
+        },
+        {
+          "heading": "Piškotki",
+          "body": "Podrobnosti o piškotkih najdete v naši politiki piškotkov. Svojo izbiro lahko kadar koli spremenite prek pasice o piškotkih."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Politika piškotkov",
+      "intro": "Piškotki so majhne datoteke, ki se shranijo v vaš brskalnik. Uporabljamo jih za delovanje strani ter, ob vaši privolitvi, za analitiko in oglaševanje.",
+      "sections": [
+        {
+          "heading": "Nujni piškotki",
+          "body": "Potrebni so za osnovno delovanje strani, na primer za shranjevanje vaše izbire jezika in privolitve glede piškotkov. Teh ni mogoče onemogočiti."
+        },
+        {
+          "heading": "Analitični piškotki",
+          "body": "Z Google Analytics anonimno spremljamo uporabo strani, da jo lahko izboljšujemo. Aktivirajo se le z vašo privolitvijo."
+        },
+        {
+          "heading": "Trženjski piškotki",
+          "body": "Omogočajo merjenje uspešnosti naših oglasov prek Google Ads. Aktivirajo se le z vašo privolitvijo."
+        },
+        {
+          "heading": "Upravljanje izbire",
+          "body": "Svojo privolitev lahko kadar koli spremenite ali prekličete prek pasice o piškotkih na dnu strani."
+        }
+      ]
+    }
+  }
+}

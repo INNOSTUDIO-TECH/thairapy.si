@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "title": "Thairapy Massage | Thai- und Wellnessmassagen in Gornja Radgona",
+    "titleTemplate": "%s | Thairapy Massage",
+    "description": "Thairapy Massage in Gornja Radgona bietet authentische Thai-Massagen, Aroma- und Heißölmassagen, Aloe-Vera-Massagen und Körperbehandlungen. Entspannen, auftanken, verjüngen. Termin per Telefon oder E-Mail buchen.",
+    "ogAlt": "Thairapy Massage – Massagestudio in Gornja Radgona"
+  },
+  "nav": {
+    "about": "Über uns",
+    "services": "Massagen",
+    "hours": "Öffnungszeiten",
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "contact": "Kontakt",
+    "book": "Termin buchen",
+    "menu": "Menü",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "backToTop": "Nach oben"
+  },
+  "hero": {
+    "eyebrow": "Massage für Ihr Wohlbefinden",
+    "title": "Thairapy Massage",
+    "tagline": "Entspannung · Energie · Verjüngung",
+    "headlineLead": "Authentische",
+    "headlineAccent": "Thai-Massage",
+    "subtitle": "Authentische Thai- und Wellnessmassagen in Gornja Radgona. Gönnen Sie sich eine Auszeit vom Alltag und Ihrem Körper die verdiente Pflege.",
+    "ctaPrimary": "Termin buchen",
+    "ctaSecondary": "Massagen ansehen",
+    "ratingLabel": "Kundenbewertung"
+  },
+  "about": {
+    "eyebrow": "Willkommen",
+    "title": "Ihr Moment der Ruhe in Gornja Radgona",
+    "lead": "Thairapy Massage verbindet traditionelle Thai-Techniken mit modernen Wellnessmassagen.",
+    "p1": "Jede Massage wird auf Ihre Bedürfnisse abgestimmt – von der kräftigen Thai-Massage, die verspannte Muskeln löst, bis zu sanften Ölmassagen, die Körper und Geist beruhigen. Wir verwenden hochwertige Öle und Pflegeprodukte für ein rundum gutes Erlebnis.",
+    "p2": "In angenehmer, ruhiger Atmosphäre sorgen wir dafür, dass Sie erholt, entspannt und voller neuer Energie nach Hause gehen.",
+    "featuresEyebrow": "Warum Thairapy?",
+    "features": {
+      "authentic": {
+        "title": "Authentische Techniken",
+        "text": "Traditionelle Thai-Methoden und geschulte Hände."
+      },
+      "personal": {
+        "title": "Persönlicher Ansatz",
+        "text": "Massage, abgestimmt auf Ihren Körper und Ihr Befinden."
+      },
+      "calm": {
+        "title": "Ruhige Atmosphäre",
+        "text": "Ein Ort, geschaffen für vollkommene Entspannung."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Preise",
+    "title": "Massage-Menü",
+    "subtitle": "Jede Massage wird mit Sorgfalt und Liebe zum Detail ausgeführt.",
+    "durationLabel": "Dauer",
+    "from": "ab",
+    "min": "Min.",
+    "categories": {
+      "signature": "Signature-Massagen",
+      "rituals": "Pflegende Rituale",
+      "express": "Kurz & gezielt"
+    },
+    "items": {
+      "thai": {
+        "name": "Thai-Massage",
+        "description": "Traditionelle Thai-Massage mit Dehnungen und Druckpunkten zur Lösung von Verspannungen und für den Energiefluss."
+      },
+      "aromaOil": {
+        "name": "Aroma-Ölmassage",
+        "description": "Sanfte Massage mit duftenden ätherischen Ölen, die Körper und Sinne beruhigt."
+      },
+      "combination": {
+        "name": "Kombinationsmassage",
+        "description": "Verbindung aus Thai-Techniken und Ölmassage für ganzheitliche Entspannung."
+      },
+      "hotOil": {
+        "name": "Heißölmassage",
+        "description": "Warmes Öl entspannt die Muskeln tiefgehend und fördert die Durchblutung."
+      },
+      "aloeVera": {
+        "name": "Aloe-Vera-Massage",
+        "description": "Feuchtigkeitsspendende, beruhigende Massage mit Aloe Vera – ideal für die Hautpflege."
+      },
+      "bodyTreatment": {
+        "name": "Körperbehandlung",
+        "description": "Verwöhnende Ganzkörperpflege für glatte, erholte Haut."
+      },
+      "headBackShoulders": {
+        "name": "Kopf, Rücken & Schultern",
+        "description": "Gezielte Massage zur Lösung von Verspannungen in Nacken, Schultern und Rücken."
+      },
+      "foot": {
+        "name": "Fußmassage",
+        "description": "Erfrischende Fußmassage, die den ganzen Körper entspannt."
+      }
+    },
+    "note": "Preise in Euro (€). Für einen Termin rufen Sie uns an oder schreiben Sie uns.",
+    "taxNote": "Alle Preise sind Endpreise. Gemäß Art. 94 des slowenischen Mehrwertsteuergesetzes (ZDDV-1) wird keine MwSt. berechnet."
+  },
+  "hours": {
+    "eyebrow": "Öffnungszeiten",
+    "title": "Öffnungszeiten",
+    "subtitle": "Wir freuen uns auf Ihren Besuch. Für einen Termin rufen Sie uns an oder schreiben Sie uns.",
+    "openNow": "Jetzt geöffnet",
+    "closedNow": "Jetzt geschlossen",
+    "closedLabel": "Geschlossen",
+    "byAppointment": "oder nach Vereinbarung",
+    "cta": "Termin buchen",
+    "days": {
+      "monday": "Montag",
+      "tuesday": "Dienstag",
+      "wednesday": "Mittwoch",
+      "thursday": "Donnerstag",
+      "friday": "Freitag",
+      "saturday": "Samstag",
+      "sunday": "Sonntag"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Ambiente",
+    "title": "Ein Blick in unser Studio",
+    "subtitle": "Ein Ort, geschaffen für Ihre Entspannung.",
+    "followCta": "Folgen Sie uns auf Instagram",
+    "imageAlt": "Ambiente im Studio Thairapy Massage"
+  },
+  "reviews": {
+    "eyebrow": "Kundenstimmen",
+    "title": "Was unsere Kunden sagen",
+    "subtitle": "Durchschnittliche Bewertung {rating} von 5.",
+    "items": [
+      {
+        "name": "Maja K.",
+        "text": "Hervorragende Thai-Massage und eine angenehme Atmosphäre. Danach fühlte ich mich völlig entspannt. Sehr zu empfehlen!"
+      },
+      {
+        "name": "Andreas M.",
+        "text": "Sehr professionelle Massage und herzlicher Empfang. Ich komme auf jeden Fall wieder!"
+      },
+      {
+        "name": "Petra V.",
+        "text": "Die beste Massage in der Umgebung. Freundliches Personal, sauberer Raum und wirklich fachkundige Ausführung."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Buchen Sie Ihren Termin",
+    "subtitle": "Rufen Sie uns an, schreiben Sie uns oder füllen Sie das Formular aus – wir helfen Ihnen gerne weiter.",
+    "callLabel": "Anrufen",
+    "emailLabel": "E-Mail",
+    "addressLabel": "Adresse",
+    "hoursLabel": "Öffnungszeiten",
+    "directions": "Route planen",
+    "mapTitle": "Standort des Studios Thairapy Massage auf der Karte",
+    "form": {
+      "title": "Anfrage senden",
+      "name": "Name",
+      "namePlaceholder": "Ihr Name",
+      "email": "E-Mail",
+      "emailPlaceholder": "ihre@email.com",
+      "phone": "Telefon",
+      "phonePlaceholder": "Ihre Telefonnummer",
+      "service": "Gewünschte Massage",
+      "servicePlaceholder": "Massage wählen (optional)",
+      "message": "Nachricht",
+      "messagePlaceholder": "Wann möchten Sie kommen? Haben Sie besondere Wünsche?",
+      "submit": "Anfrage senden",
+      "submitting": "Wird gesendet …",
+      "success": "Vielen Dank! Wir haben Ihre Anfrage erhalten und melden uns in Kürze.",
+      "error": "Die Nachricht konnte nicht gesendet werden. Bitte rufen Sie uns an oder schreiben Sie uns.",
+      "required": "Dieses Feld ist erforderlich.",
+      "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+      "consent": "Mit dem Absenden erklären Sie sich einverstanden, dass wir Sie zu Ihrer Anfrage kontaktieren."
+    }
+  },
+  "footer": {
+    "tagline": "Massage für Ihr Wohlbefinden.",
+    "quickLinks": "Schnellzugriff",
+    "contactTitle": "Kontakt",
+    "followTitle": "Folgen Sie uns",
+    "legalTitle": "Rechtliches",
+    "privacy": "Datenschutz",
+    "cookies": "Cookies",
+    "rights": "Alle Rechte vorbehalten.",
+    "vat": "USt-IdNr.: SI{vat}"
+  },
+  "cookie": {
+    "title": "Wir respektieren Ihre Privatsphäre",
+    "description": "Wir verwenden Cookies für den Betrieb der Website sowie für Analyse und Werbung. Sie entscheiden, was Sie zulassen.",
+    "accept": "Alle akzeptieren",
+    "reject": "Nur notwendige",
+    "settings": "Einstellungen",
+    "save": "Auswahl speichern",
+    "necessary": "Notwendig",
+    "necessaryDesc": "Erforderlich für den Grundbetrieb der Website. Immer aktiv.",
+    "analytics": "Analyse",
+    "analyticsDesc": "Helfen uns, die Nutzung der Website zu verstehen (Google Analytics).",
+    "marketing": "Marketing",
+    "marketingDesc": "Ermöglichen die Messung der Werbeleistung (Google Ads).",
+    "more": "Mehr in der Cookie-Richtlinie"
+  },
+  "language": {
+    "label": "Sprache",
+    "sl": "Slovenščina",
+    "de": "Deutsch"
+  },
+  "legal": {
+    "backHome": "Zurück zur Startseite",
+    "lastUpdated": "Zuletzt aktualisiert",
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "intro": "Diese Erklärung beschreibt, wie {legalName} Ihre personenbezogenen Daten bei der Nutzung dieser Website verarbeitet.",
+      "sections": [
+        {
+          "heading": "Verantwortlicher",
+          "body": "Verantwortlich für die Datenverarbeitung ist {legalName}, {address}. Bei Fragen erreichen Sie uns unter {email}."
+        },
+        {
+          "heading": "Welche Daten werden erhoben",
+          "body": "Beim Absenden des Kontaktformulars erheben wir Ihren Namen, Ihre E-Mail-Adresse, Telefonnummer und den Inhalt Ihrer Nachricht, um auf Ihre Anfrage zu antworten. Mit Ihrer Einwilligung verwenden wir zudem Analyse- und Werbe-Cookies."
+        },
+        {
+          "heading": "Zweck und Rechtsgrundlage",
+          "body": "Die Formulardaten verarbeiten wir auf Grundlage Ihrer Einwilligung zur Beantwortung Ihrer Anfrage. Analyse und Werbung erfolgen ausschließlich mit Ihrer über das Cookie-Banner erteilten Einwilligung."
+        },
+        {
+          "heading": "Speicherdauer",
+          "body": "Wir speichern Ihre Daten nur so lange, wie es zur Bearbeitung Ihrer Anfrage erforderlich ist bzw. gesetzliche Pflichten es vorsehen."
+        },
+        {
+          "heading": "Ihre Rechte",
+          "body": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung sowie ein Widerspruchsrecht. Zur Ausübung kontaktieren Sie uns unter {email}."
+        },
+        {
+          "heading": "Cookies",
+          "body": "Einzelheiten zu Cookies finden Sie in unserer Cookie-Richtlinie. Ihre Auswahl können Sie jederzeit über das Cookie-Banner ändern."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Cookie-Richtlinie",
+      "intro": "Cookies sind kleine Dateien, die in Ihrem Browser gespeichert werden. Wir nutzen sie für den Betrieb der Website und – mit Ihrer Einwilligung – für Analyse und Werbung.",
+      "sections": [
+        {
+          "heading": "Notwendige Cookies",
+          "body": "Erforderlich für den Grundbetrieb der Website, etwa zum Speichern Ihrer Sprachwahl und Cookie-Einwilligung. Diese können nicht deaktiviert werden."
+        },
+        {
+          "heading": "Analyse-Cookies",
+          "body": "Mit Google Analytics erfassen wir anonym die Nutzung der Website, um sie zu verbessern. Sie werden nur mit Ihrer Einwilligung aktiviert."
+        },
+        {
+          "heading": "Marketing-Cookies",
+          "body": "Ermöglichen die Messung der Leistung unserer Anzeigen über Google Ads. Sie werden nur mit Ihrer Einwilligung aktiviert."
+        },
+        {
+          "heading": "Auswahl verwalten",
+          "body": "Ihre Einwilligung können Sie jederzeit über das Cookie-Banner am Seitenende ändern oder widerrufen."
+        }
+      ]
+    }
+  }
+}
