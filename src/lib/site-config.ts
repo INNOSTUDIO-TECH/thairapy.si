@@ -17,7 +17,6 @@ export const siteConfig = {
     display: "070 645 602",
     displayIntl: "+386 70 645 602",
   },
-  // TODO: confirm real inbox with the owner.
   email: "massagethairapy@gmail.com",
 
   address: {
@@ -33,8 +32,9 @@ export const siteConfig = {
   social: {
     instagram: "https://instagram.com/thai_rapy",
     instagramHandle: "@thai_rapy",
-    // TODO: replace with the real Facebook page URL.
-    facebook: "https://www.facebook.com/profile.php?id=61588645051635#",
+    // TODO: replace with the page's vanity URL once claimed — this numeric
+    // profile.php form is published in JSON-LD `sameAs`.
+    facebook: "https://www.facebook.com/profile.php?id=61588645051635",
   },
 
   rating: { value: 5.0, count: 4 },
